@@ -1,1 +1,1 @@
-make python game
+learn python game
